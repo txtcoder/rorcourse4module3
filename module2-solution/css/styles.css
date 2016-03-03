@@ -21,6 +21,8 @@ h2 {
 }
 p {
   margin-top:35px;
+  margin-left:5px;
+  margin-right:5px;
 }
 .chicken {
   background-color: #777700;
